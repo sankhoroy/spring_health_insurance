@@ -1,0 +1,16 @@
+2017-10-06 13:55:40,708 INFO [Demo1Application.class] - Validating Claim
+2017-10-06 13:55:40,710 INFO [Manager.class] - Insurance Approved
+2017-10-06 13:56:49,553 INFO [Demo1Application.class] - Validating Claim
+2017-10-06 13:56:49,554 INFO [Manager.class] - Insurance Approved
+2017-10-06 13:56:52,175 INFO [Demo1Application.class] - Validating Claim
+2017-10-06 13:56:52,177 INFO [Manager.class] - Insurance Approved
+2017-10-06 14:21:40,481 INFO [Demo1Application.class] - Validating Claim
+2017-10-06 14:21:40,483 INFO [Manager.class] - Insurance Approved
+2017-10-06 14:23:33,762 INFO [Demo1Application.class] - Validating Claim
+2017-10-06 14:23:33,772 INFO [Manager.class] - Insurance Approved
+2017-10-06 14:38:03,064 INFO [Demo1Application.class] - Validating Claim
+2017-10-06 14:38:03,065 INFO [Manager.class] - Insurance Approved
+2017-10-06 14:38:15,578 INFO [Demo1Application.class] - Validating Claim
+2017-10-06 14:38:15,580 INFO [Manager.class] - Insurance Approved
+2017-10-06 14:38:32,164 INFO [Demo1Application.class] - Validating Claim
+2017-10-06 14:38:32,165 INFO [Manager.class] - Insurance Approved
